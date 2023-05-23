@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/VistaCliente_Cliente/Transaccion?WSDL" uri="src/conf/xml-resources/web-service-references/Transaccion/wsdl/localhost_8080/VistaCliente_Cliente/Transaccion.wsdl"/>
+    <system systemId="http://localhost:8080/VistaCliente_Cliente/Transaccion?xsd=1" uri="src/conf/xml-resources/web-service-references/Transaccion/wsdl/localhost_8080/VistaCliente_Cliente/Transaccion.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/VistaCliente_Cliente/Proceso_SW?Tester" uri="src/conf/xml-resources/web-service-references/Proceso_SW_Tester/wsdl/localhost_8080/VistaCliente_Cliente/Proceso_SW.tester"/>
+    <system systemId="http://localhost:8080/VistaCliente_Cliente/Proceso_SW?WSDL" uri="src/conf/xml-resources/web-service-references/Proceso_SW/wsdl/localhost_8080/VistaCliente_Cliente/Proceso_SW.wsdl"/>
+    <system systemId="http://localhost:8080/VistaCliente_Cliente/Proceso_SW?xsd=1" uri="src/conf/xml-resources/web-service-references/Proceso_SW/wsdl/localhost_8080/VistaCliente_Cliente/Proceso_SW.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Servidor/ProcesoWS?WSDL" uri="src/conf/xml-resources/web-service-references/ProcesoWS/wsdl/localhost_8080/Servidor/ProcesoWS.wsdl"/>
+    <system systemId="http://localhost:8080/Servidor/ProcesoWS?xsd=1" uri="src/conf/xml-resources/web-service-references/ProcesoWS/wsdl/localhost_8080/Servidor/ProcesoWS.xsd_1.xsd"/>
+</catalog>
